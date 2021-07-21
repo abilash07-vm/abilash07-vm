@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abilash07-vm" alt="abilash07-vm" /></a> </p>
 
-- 🔭 I’m currently working on [Dare4Chat]
+- 🔭 I’m currently working on **Dare4Chat**
 
 - 🌱 I’m currently learning **Angular**
 
