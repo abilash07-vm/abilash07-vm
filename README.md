@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Dare4Chat**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Angular, Springboot, Node JS **
 
 - 👨‍💻 All of my projects are available at [https://abilash-2k20.web.app/](https://abilash-2k20.web.app/)
 
